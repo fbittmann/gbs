@@ -15,7 +15,8 @@ To install all required dependencies, type
     . net install parallel, from(https://raw.github.com/gvegayon/parallel/stable/) replace
     . mata mata mlib index
 
-Example
+Minimal example
+
     . webuse nhanes2, clear
     . replace hlthstat = .a if hlthstat == 8
     . gbs, expression(rho=r(rho)) weight(finalwgt): spearman hlthstat hsizgp
