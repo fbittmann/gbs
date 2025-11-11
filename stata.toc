@@ -1,0 +1,3 @@
+v 3
+p gbs Stata module for generalized bootstrapping
+

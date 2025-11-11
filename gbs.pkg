@@ -1,0 +1,10 @@
+v 3
+d gbs: Stata module for generalized bootstrapping
+d 
+d Author: Felix Bittmannn, Leibniz Institut für Bildungsverläufe, felix.bittmann@lifbi.de
+d
+d Distribution-Date: 20251111
+f gbs.ado
+f gbs_sampler.ado
+f gbs.sthlp
+
